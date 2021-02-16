@@ -14,7 +14,7 @@ Room是Google推出的Android架构组件库中的数据持久化组件库, 也�
 
 ## 二、基本使用
 
-### 1\. 创建Entity
+### 1. 创建Entity
 
 #### 1.1 一个简单的Entitiy
 
